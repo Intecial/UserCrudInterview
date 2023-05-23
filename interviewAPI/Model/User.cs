@@ -7,12 +7,33 @@ public class User{
 
     public string? phoneNumber {get; set;}
 
-    public string? age {get; set;}
+    public int? age {get; set;}
     private Guid guid = Guid.NewGuid();
 
-    public User(string name, string email){
+    public User(string name, string email, string phoneNumber, int age){
         this.name = name;
         this.email = email;
         this.Id = guid.ToString();
+        this.phoneNumber = phoneNumber;
+        this.age = age;
+    }
+
+    public User (string name, string email){
+        this.name = name;
+        this.email = email;
+        this.Id = guid.ToString();
+    }
+
+    public User (string name, string email, string phoneNumber){
+        this.name = name;
+        this.email = email;
+        this.Id = guid.ToString();
+        this.phoneNumber = phoneNumber;
+    }
+    public User (string name, string email, int age){
+        this.name = name;
+        this.email = email;
+        this.Id = guid.ToString();
+        this.age = age;
     }
 }
