@@ -1,0 +1,15 @@
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\interviewAPI.exe
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\appsettings.Development.json
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\appsettings.json
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\interviewAPI.dll
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\interviewAPI.deps.json
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\interviewAPI.runtimeconfig.json
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\interviewAPI.pdb
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\Microsoft.EntityFrameworkCore.dll
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\Microsoft.OpenApi.dll
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\DotnetProjects\interviewAPI\bin\Publish\Swashbuckle.AspNetCore.SwaggerUI.dll
